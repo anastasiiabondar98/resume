@@ -549,7 +549,7 @@ span.border.one:after {
 }
 .wthree_about_right_grid_right p{
 	    margin: 1em 0 0;
-    color: #586371;
+    /*color: #586371;*/
     line-height: 1.9em;
     font-size: 0.9em;
 }
@@ -611,7 +611,7 @@ span.border.one:after {
 }
 #services {
     padding: 5em 0;
-    background: #1b242f;
+    background: #2B2B2B;
 }
 .service-head.one h3{
 	color:#fff;
